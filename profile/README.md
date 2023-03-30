@@ -1,6 +1,6 @@
 ## @DY-MAKE
 
-### About MAKE:
+### About MAKE
 
 - MAKE is a student community dedicated to promoting innovation and excellence in various fields such as security, AI, design, and more. Our organization provides a platform for students to learn, collaborate, and create projects that make a difference in the world.
 
